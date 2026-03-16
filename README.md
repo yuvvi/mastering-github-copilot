@@ -3,6 +3,10 @@
 
 # 🚀 Mastering GitHub Copilot
 
+<p align="center">
+  <img src="images/software-githubCopilot_1.jpg" width="1200">
+</p>
+
 > **The future developer is not the one who writes everything alone —
 > it’s the one who collaborates best with AI.**
 
